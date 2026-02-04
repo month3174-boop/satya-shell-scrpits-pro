@@ -1,2 +1,2 @@
-# satya-shell-scrpits-pro
+# satya-shell-scripts-pro
 shell scripting project
